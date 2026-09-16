@@ -1,0 +1,8 @@
+{
+  "name": "t212-cors-proxy",
+  "version": "1.0.0",
+  "description": "CORS proxy for Trading 212 API — deploy free on Vercel via GitHub",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
